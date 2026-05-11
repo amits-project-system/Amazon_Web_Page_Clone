@@ -1,0 +1,344 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+    
+}
+.navbar{
+    height:60px;
+    background-color: #0f1111;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    position:sticky;
+    top: 0px;
+
+    ;
+    
+}
+.amazone_logo{
+    background-image: url(Amazon-Logo-White-PNG-Image.png);
+    height: 50px;
+    width: 113px;
+    background-size: contain;
+    background-repeat:no-repeat;
+    display: inline-block;
+    margin-top:7px ;
+    margin-left: 20px;
+    
+}
+.border{
+    border: 1.5px solid transparent;
+}
+.border:hover{
+    border: 1.5px solid white;
+}
+.nav_address{
+    width: 100px;
+    font-size: 1rem;
+    color: #cccccc;
+    align-items: center;
+
+
+}
+.a1{
+    font-size: 12px;
+}
+.a1{
+    position: relative;
+    left: 20px;
+    
+}
+.location{
+    font-size: 1rem;
+    color: #cccccc;
+    font-weight: 700;
+    display: flex;
+}
+select{
+    background-color: aliceblue;
+}
+.nav-search{
+    display: flex;
+    height: 38px;
+    width: 800px;
+    border-radius: 7%;
+    
+}
+.nav-search:hover{
+    border:2px solid orange;
+}
+    
+.search{
+    border: none;
+    flex:1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+.sr-select{
+    width: 35px;
+    border-radius: 15% 0% 0% 15%;
+    background-color: #f3f3f3bb;
+    text-align: center;
+    border: none
+    
+}
+.search-icon{
+    background-color: coral;
+    width: 35px;
+    border-radius: 0% 15% 15% 0%;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    
+
+    
+}
+.nav-language{
+    display: flex;
+}
+.language-flag{
+    background-image: url("Flag_of_India.svg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 26px;
+    height: 25px;
+    margin-top: 2px;
+    
+}
+.language-name{
+    color: #cccccc;
+}
+.sign-in-navbar{
+    color: #cccccc;
+    font-size: 12px;
+
+}
+.return-navbar{
+    color: #cccccc;
+    font-size: 12px;
+
+}
+.Account1{
+    font-size:16px ;
+    ;
+}
+.nav-cart{
+    color: #cccccc;
+    display: flex;
+}
+.cart-icon{
+    font-size: 24px;
+    font-weight: 700;
+}
+.panal{
+    background-color: rgb(0,0,0,0.7);
+    height: 40px;
+    display: flex;
+    color: aliceblue;
+    align-items: center;
+}
+
+.menu-icon{
+
+    font-size: 20px;
+    color: aliceblue;
+}
+.panal-content p{
+    display: inline;
+    margin: 0px 10px 0px 10px;
+}
+.image1{
+    height: 350px;
+    
+    background-image: url("home-image1.jpg");
+    filter: blur();
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+    
+}
+.home-image-text{
+
+    height: 40px;
+    display: flex;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 97%;
+    position: relative;
+    bottom: 40px;
+
+    
+}
+.home-image-text a{
+    color:#2162A1;
+    text-decoration: none;
+}
+.box-backgrond{
+    background-color: rgba(108, 106, 106, 0.281);
+    height: 600px;
+    width:100%;
+    display: flex;
+    justify-content:space-evenly;
+}
+.content{
+    height: 400px;
+    width:23% ;
+    
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+.box1-image{
+    background-image: url("box1.jpg");
+    background-size: cover;
+    height: 80%;
+    width: 90%;
+    margin: 10px 0px 10px 0px;
+}
+.box2-image{
+    background-image: url("box3.jpg");
+    background-size: cover;
+    height: 80%;
+    width: 90%;
+    margin: 10px 0px 10px 0px;
+}
+.box4-image{
+    display: flex;
+    /*background-image: url("");
+    background-size: cover;*/
+    height: 80%;
+    width: 90%;
+    margin: 10px 0px 10px 0px;
+}
+.box4-1{
+    height: 50%;
+    width: 100%;
+    background-color: azure;
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.box4-2{
+    height: 50%;
+    width: 100%;
+    background-color: azure;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+.shot{
+    height: 80%;
+    width: 40%;
+    background-color: black;
+    border: 2px solid white;
+}
+.box4{
+    text-align: center;
+}
+.b-1_image{
+    background-image: url("box4.1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.b-2_image{
+    background-image: url("box4.2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.b-3_image{
+    background-image: url("box4.3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.b-4_image{
+    background-image: url("box4.4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.content1{
+    height: 150px;
+    width:43% ;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+
+}
+.all-image{
+    height: 100%;
+    width: 100%;
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.box2_1-image{
+    background-image: url("box2.1.jpg");
+    background-size: cover;
+    height: 98%;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+.box2_2-image{
+    background-image: url("box2.2.jpg");
+    background-size: cover;
+    height: 98%;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+.box2_3-image{
+    background-image: url("box2.3.jpg");
+    background-size: cover;
+    height: 98%;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+.box2_4-image{
+    background-image: url("box2.4.jpg");
+    background-size: cover;
+    height: 98%;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+.content1 a{
+    text-decoration: none;
+}
+.footerback{
+    background-color: #2f3030;
+    color: azure;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.disclaimer { 
+    background-color: #0f1111;
+    color: azure;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;   /* Makes items stack vertically */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 14px;
+}
+.line1, .line2 {
+    margin: 3px 0;
+}
