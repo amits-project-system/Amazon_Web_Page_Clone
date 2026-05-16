@@ -1,9 +1,9 @@
-#Amazon Web Page Clone
+# Amazon Web Page Clone
 
 A simple Amazon homepage clone built using HTML and CSS.
 This project is created for practicing frontend web development and improving UI design skills.
 
-###🚀 Features
+### 🚀 Features
 Amazon-inspired homepage design
 Responsive navigation bar
 Search bar section
@@ -15,7 +15,7 @@ Fully built with HTML & CSS
 ###🛠️ Technologies Used
 HTML5
 CSS3
-###📂 Project Structure
+### 📂 Project Structure
 Amazon_Web_Page_Clone/
 │
 ├── index.html
@@ -25,7 +25,7 @@ Amazon_Web_Page_Clone/
 │   ├── hero.jpg
 │   └── ...
 └── README.md
-###📸 Preview
+### 📸 Preview
 
 ![Amazon Clone Screenshot](<Screenshot (94).png>)
 
@@ -38,7 +38,7 @@ Run the project in vs code with live server
 
 that,Simply open amazon page clone  in your browser.
 
-###🎯 Learning Objectives
+### 🎯 Learning Objectives
 
 This project helped in learning:
 
@@ -54,7 +54,7 @@ Make fully responsive for all devices
 Add product slider
 Add login/signup page
 Add shopping cart functionality
-###🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome.
 
@@ -66,10 +66,10 @@ git commit -m "Added new feature"
 Push to GitHub
 git push origin feature-name
 Open a Pull Request
-###📄 License
+### 📄 License
 
 This project is for educational purposes only.
 
-###👨‍💻 Author
+### 👨‍💻 Author
 
 Amit Sasmal
