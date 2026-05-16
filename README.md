@@ -27,7 +27,8 @@ Amazon_Web_Page_Clone/
 └── README.md
 ### 📸 Preview
 
-![Amazon Clone Screenshot](<Screenshot (94).png>)
+![Amazon Clone Screenshot](<Screenshot (94)-1.png>)
+
 
 ⚙️ How to Run the Project
 Clone the repository
