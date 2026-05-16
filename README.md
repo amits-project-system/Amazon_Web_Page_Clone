@@ -30,7 +30,7 @@ Amazon_Web_Page_Clone/
 ![Amazon Clone Screenshot](<Screenshot (94)-1.png>)
 
 
-⚙️ How to Run the Project
+## ⚙️ How to Run the Project
 Clone the repository
 git clone https://github.com/your-username/Amazon_Web_Page_Clone.git
 Open the project folder
